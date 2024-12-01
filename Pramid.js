@@ -1,3 +1,4 @@
+//Inverse Pramid
 function inversePramid(rows){
     let pramid = "";
 
@@ -10,6 +11,7 @@ function inversePramid(rows){
 }
 inversePramid(5);
 
+//Right Angled Pramid
 function rightAngledPramid(rows){
     let pramid = "";
 
